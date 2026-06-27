@@ -1,23 +1,117 @@
 <h1 align="center">Hi 👋, I'm Mohammad Nadeem</h1>
+
 <h3 align="center">Data & Marketplace Operations Professional | Aspiring Data Analyst</h3>
 
-- 🔭 I’m currently working on **Building end-to-end data analytics projects and improving marketplace operations.**
-
-- 🌱 I’m currently learning **Advanced SQL, Power BI, Python for Data Analysis, Statistics, Machine Learning**
-
-- 👯 I’m looking to collaborate on **Data Analytics, Dashboard, and Business Intelligence projects**
-
-- 🤝 I’m looking for help with **Machine Learning and Data Engineering**
-
-- 👨‍💻 All of my projects are available at [.](.)
-
-- 💬 Ask me about **SQL, Power BI, Excel, Data Cleaning, Marketplace Operations, Business Analysis**
-
-- 📫 How to reach me **Email: nadeem3mau@gmail.com LinkedIn: www.linkedin.com/in/mohammad-nadeem2**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Passionate about turning data into actionable insights using SQL, Python, Excel, Power BI, and Tableau.<br>
+Currently working in Data & Marketplace Operations while building real-world Data Analytics projects.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+### 🔭 I'm currently working on
+
+- Building end-to-end Data Analytics projects using SQL, Python & Power BI.
+- Improving Marketplace Operations through data-driven insights.
+
+### 🌱 I'm currently learning
+
+- Advanced SQL
+- Power BI
+- Python for Data Analysis
+- Statistics
+- Machine Learning
+
+### 👯 I'm looking to collaborate on
+
+- Data Analytics Projects
+- Business Intelligence
+- Dashboard Development
+
+### 🤝 I'm looking for help with
+
+- Machine Learning
+- Data Engineering
+
+### 👨‍💻 My Projects
+
+All of my projects are available here:
+
+**https://github.com/YOUR_GITHUB_USERNAME**
+
+### 💬 Ask me about
+
+- SQL
+- Excel
+- Power BI
+- Tableau
+- Python
+- Data Cleaning
+- Marketplace Operations
+- Business Analysis
+
+### 📫 How to reach me
+
+📧 **nadeem3mau@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/mohammad-nadeem2/
+
+---
+
+## 🤝 Connect with me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/mohammad-nadeem2/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://www.microsoft.com/microsoft-365/excel">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="45" height="45"/>
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="45" height="45"/>
+</a>
+
+<a href="https://www.tableau.com/">
+<img src="https://img.icons8.com/color/48/tableau-software.png" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+</a>
+
+<a href="https://www.python.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://pandas.pydata.org/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mdnadeem03&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
